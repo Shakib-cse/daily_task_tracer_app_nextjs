@@ -5,7 +5,7 @@ This is a beginner-friendly project built using [Next.js](https://nextjs.org/). 
 ---
 ### 🚀 Live Link
 
-[https://my-nextjs-app.vercel.app](https://my-nextjs-app.vercel.app)
+[https://daily-task-tracer-app-nextjs.vercel.app/](https://daily-task-tracer-app-nextjs.vercel.app/)
 
 ---
 
